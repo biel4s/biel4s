@@ -2,7 +2,7 @@
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,rxjs,react,scss,bootstrap,git,github,gitlab,firebase,figma,ps,webstorm&perline=8)](https://skillicons.dev)
-![biel4s's Stats](https://github-readme-stats.vercel.app/api?username=biel4s&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
+![biel4s's Stats](https://github-readme-stats.vercel.app/api?username=biel4s&theme=tokyonight&show_icons=true&hide_border=true&hide_rank=true&count_private=true)
 
 <!--
 **biel4s/biel4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
