@@ -1,11 +1,3 @@
-<style>
-#content {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-</style>
-
 ## Hi there, I'm [Kamil](https://kamilbielawski.netlify.app) 👋
 
 ### Languages and Tools:
