@@ -5,7 +5,7 @@ Highly motivated Front-End Developer, freshly graduated with a Bachelor of Engin
 
 <div style="">
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,rxjs,react,scss,bootstrap,git,github,gitlab,firebase,figma,ps,webstorm,&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,rxjs,react,scss,bootstrap,git,github,gitlab,firebase,figma,ps,webstorm&perline=8)
 ![biel4s's Stats](https://github-readme-stats.vercel.app/api?username=biel4s&theme=tokyonight&show_icons=true&count_private=true&rank_icon=github)
 
 </div>
