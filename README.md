@@ -5,7 +5,7 @@
 <div id="content">
   <div id="skills">
   
-![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,rxjs,react,scss,bootstrap,git,github,gitlab,firebase,figma,ps,webstorm,&perline=8)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,rxjs,react,scss,bootstrap,git,github,gitlab,firebase,figma,ps,webstorm&perline=6)
   
   </div>
   <div id="github">
