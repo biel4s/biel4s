@@ -1,11 +1,12 @@
 ## Hi there, I'm [Kamil](https://kamilbielawski.netlify.app) 👋
+Highly motivated Front-End Developer, freshly graduated with a Bachelor of Engineering degree in Computer Science. I am adept in modern web development technologies, including Angular, React and TypeScript, which allows me to create advanced and dynamic user interfaces. As a UX & UI enthusiast, I strive to build web applications that are aesthetically pleasing and user-friendly.
 
 ### Languages and Tools:
 
 <div style="">
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,rxjs,react,scss,bootstrap,git,github,gitlab,firebase,figma,ps,webstorm,&perline=8)
-![biel4s's Stats](https://github-readme-stats.vercel.app/api?username=biel4s&theme=tokyonight&show_icons=true&count_private=true&hide_rank=true&rank_icon=github)
+![biel4s's Stats](https://github-readme-stats.vercel.app/api?username=biel4s&theme=tokyonight&show_icons=true&count_private=true&rank_icon=github)
 
 </div>
 
