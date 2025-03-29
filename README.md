@@ -1,5 +1,5 @@
 ## Hi there, I'm [Kamil](https://kamilbielawski.netlify.app) 👋
-Front-End Developer, freshly graduated with a Bachelor of Engineering degree in Computer Science. I am adept in modern web development technologies, including Angular, React and TypeScript, which allows me to create advanced and dynamic user interfaces. As a UX & UI enthusiast, I strive to build web applications that are aesthetically pleasing and user-friendly.
+Front-End Developer, currently working with Angular and Ruby on Rails. I am adept in modern web development technologies, including Angular, React and TypeScript. As a UX & UI enthusiast, I strive to build web applications that are aesthetically pleasing and user-friendly.
 
 ### Languages and Tools
 
