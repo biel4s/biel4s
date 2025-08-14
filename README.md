@@ -3,7 +3,7 @@ Front-End Developer, currently working with Angular and Ruby on Rails. I am adep
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,rxjs,react,scss,bootstrap,git,github,gitlab,firebase,figma,ps,webstorm&perline=8)
+![My Skills]([https://skillicons.dev/icons?i=html,css,js,typescript,angular,rxjs,react,scss,bootstrap,git,github,gitlab,firebase,figma,ps,webstorm&perline=8](https://skillicons.dev/icons?i=angular,react,vue,js,typescript,rxjs,rails,sass,tailwindcss,bootstrap,git,github,gitlab,firebase,figma,ps&perline=8))
 
 <!--
 **biel4s/biel4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
